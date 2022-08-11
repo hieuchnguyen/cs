@@ -1,5 +1,6 @@
 # NGUYỄN CHÍ HIẾU
 
+## Thông tin cá nhân
 
 - Học vị: Thạc sĩ
 - Chuyên ngành: Khoa học máy tính
