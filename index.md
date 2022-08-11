@@ -8,7 +8,7 @@
 
 ## Giảng dạy
 
-  - [Cấu trúc dữ liệu & Giải thuật](https://hieuchnguyen.github.io/teaching/dsa/lectures/2021-dsa.md)
+  - [Cấu trúc dữ liệu & Giải thuật](https://hieuchnguyen.github.io/teaching/dsa/lectures/2021-dsa)
 
 ## Nghiên cứu
 
