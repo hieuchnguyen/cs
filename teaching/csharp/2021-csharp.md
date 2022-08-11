@@ -14,10 +14,8 @@
 
 ## 3. Tài liệu tham khảo
 
-1. Dương Anh Đức, Trần Hạnh Nhi. "Nhập môn Cấu trúc dữ liệu và Thuật toán". Đại học Khoa học tự nhiên TP Hồ Chí Minh 2003.
-2. Donald E. Knuth. "The Art of Computer Programming, Volume 3". Addison-Wesley 1998.
-3. Robert Sedgewick. "Algorithms in C". Addison-Wesley 1990.
-4. Niklaus Wirth. "Algorithms + Data Structures = Programs". Prentice-Hall 1976.
+1. Bài giảng tổng hợp của giảng viên
+2. Tony Gaddis.	"Starting Out With - Starting out with Visual C#", 5th Edition. Pearson 2019
 
 ## 4. Nội dung học phần
 
