@@ -1,5 +1,5 @@
 ## Thông tin cá nhân
-
+- Họ tên: Nguyễn Chí Hiếu
 - Học vị: Thạc sĩ
 - Chuyên ngành: Khoa học máy tính
 - Email: [nguyenchihieu@mku.edu.vn](nguyenchihieu@mku.edu.vn)
